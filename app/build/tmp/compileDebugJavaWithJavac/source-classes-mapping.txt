@@ -1,0 +1,28 @@
+com/example/feedthecat/databinding/ActivityMainBinding.java
+ com.example.feedthecat.databinding.ActivityMainBinding
+com/example/feedthecat/databinding/ActivitySplashBinding.java
+ com.example.feedthecat.databinding.ActivitySplashBinding
+com/example/feedthecat/databinding/FragmentInfoBinding.java
+ com.example.feedthecat.databinding.FragmentInfoBinding
+com/example/feedthecat/db/AppDatabase_Impl.java
+ com.example.feedthecat.db.AppDatabase_Impl
+ com.example.feedthecat.db.AppDatabase_Impl$1
+com/example/feedthecat/databinding/LayoutHistoryItemBinding.java
+ com.example.feedthecat.databinding.LayoutHistoryItemBinding
+com/example/feedthecat/databinding/IncludeToolbarBinding.java
+ com.example.feedthecat.databinding.IncludeToolbarBinding
+com/example/feedthecat/databinding/ActivityHistoryBinding.java
+ com.example.feedthecat.databinding.ActivityHistoryBinding
+com/example/feedthecat/databinding/ActivityInfoBinding.java
+ com.example.feedthecat.databinding.ActivityInfoBinding
+com/example/feedthecat/BuildConfig.java
+ com.example.feedthecat.BuildConfig
+com/example/feedthecat/dao/StatsDao_Impl.java
+ com.example.feedthecat.dao.StatsDao_Impl
+ com.example.feedthecat.dao.StatsDao_Impl$1
+ com.example.feedthecat.dao.StatsDao_Impl$2
+ com.example.feedthecat.dao.StatsDao_Impl$3
+com/example/feedthecat/databinding/LayoutAchievementItemBinding.java
+ com.example.feedthecat.databinding.LayoutAchievementItemBinding
+com/example/feedthecat/databinding/CatWidgetLayoutBinding.java
+ com.example.feedthecat.databinding.CatWidgetLayoutBinding

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FeedTheCat</string>
+    <string name="feed">Feed</string>
+    <string name="satiety">Satiety</string>
+    <string name="share_template">Hey folks! %1$s I fed one beautiful cat %2$d times!</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="about_message">951002 - Zahayeuskaya - Work №1</string>
+    <string name="info">Info</string>
+    <string name="history">History</string>
+    <string name="info_page_1">Well, this is a game where you basically feed a cat, nothing more… Enjoy!</string>
+    <string name="info_page_2">How to do this? You already know: just press "feed" button. If you don\'t press it the cat will die from starvation.</string>
+    <string name="info_page_3">You can also add a widget. Do you need it? Definitely not, it\'s a widget, cmon, it\'s useless</string>
+    <string name="remaining">Remaining: %1$d</string>
+    <string name="yay">Yay!</string>
+</resources>
